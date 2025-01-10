@@ -1,4 +1,4 @@
-#Task-1
+--Task-1
 -- Create the Database
 
 CREATE DATABASE StudentManagementSystem;
